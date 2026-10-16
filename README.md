@@ -5,7 +5,7 @@ Master of Cybersecurity student at **Griffith University** (Gold Coast), focused
 - 🎓 Master of Cybersecurity, Griffith University (coursework completing Nov 2026) – five High Distinctions, including 7/7 in Offensive Cyber Security
 - 🎓 B.Tech, IIT Bombay
 - 📍 Gold Coast, Queensland
-- 🔍 Looking for **IT Support / Helpdesk / Service Desk** and junior **SOC** roles in South East Queensland
+- 🔍 Looking for **SOC Analyst, Cyber Security Analyst, Security Operations** and **IT Security Support** roles in South East Queensland
 
 ---
 
