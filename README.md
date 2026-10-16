@@ -1,11 +1,11 @@
 ## Hi, I'm Chaitanya 👋
 
-Master of Cybersecurity student at **Griffith University** (Gold Coast), focused on **IT support, systems administration and security operations**. I like building real environments, breaking them, and documenting how I fixed them.
+Master of Cybersecurity student at **Griffith University** (Gold Coast), focused on **IT support and systems administration with a security-first mindset**. I build and support real environments, troubleshoot them when they break, and keep them secure and well documented.
 
 - 🎓 Master of Cybersecurity, Griffith University (coursework completing Nov 2026) – five High Distinctions, including 7/7 in Offensive Cyber Security
 - 🎓 B.Tech, IIT Bombay
 - 📍 Gold Coast, Queensland
-- 🔍 Looking for **SOC Analyst, Cyber Security Analyst, Security Operations** and **IT Security Support** roles in South East Queensland
+- 🔍 Looking for **IT Support** and **IT Security Support** roles, with a path into **SOC / Cyber Security Analyst** work, in South East Queensland
 
 ---
 
